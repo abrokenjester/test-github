@@ -2,4 +2,4 @@
 test repo for playing with github settings
 
 edit 2
-about to use squash and merge
+about to use squash and merge with two commits
