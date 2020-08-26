@@ -7,3 +7,5 @@ let's do a normal merge commit instead
 
 commit to master
 commit to master 2
+
+commit to feature branch
