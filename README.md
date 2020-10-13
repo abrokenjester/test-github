@@ -14,3 +14,5 @@ test1
 
 test 2
 possible conflict parallel change
+
+testing non-conflicting change merge
